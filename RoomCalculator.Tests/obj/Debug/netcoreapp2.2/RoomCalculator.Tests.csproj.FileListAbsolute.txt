@@ -1,0 +1,17 @@
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.Tests.deps.json
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.Tests.runtimeconfig.json
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.Tests.runtimeconfig.dev.json
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.Tests.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.Tests.pdb
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/bin/Debug/netcoreapp2.2/RoomCalculator.pdb
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.csprojAssemblyReference.cache
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.csproj.CoreCompileInputs.cache
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.AssemblyInfoInputs.cache
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.AssemblyInfo.cs
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.csproj.CopyComplete
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/Debug/netcoreapp2.2/RoomCalculator.Tests.pdb

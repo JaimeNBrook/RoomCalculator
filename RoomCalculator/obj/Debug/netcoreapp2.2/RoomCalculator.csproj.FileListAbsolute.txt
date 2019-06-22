@@ -1,0 +1,11 @@
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/bin/Debug/netcoreapp2.2/RoomCalculator.deps.json
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/bin/Debug/netcoreapp2.2/RoomCalculator.runtimeconfig.json
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/bin/Debug/netcoreapp2.2/RoomCalculator.runtimeconfig.dev.json
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/bin/Debug/netcoreapp2.2/RoomCalculator.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/bin/Debug/netcoreapp2.2/RoomCalculator.pdb
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/Debug/netcoreapp2.2/RoomCalculator.csprojAssemblyReference.cache
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/Debug/netcoreapp2.2/RoomCalculator.csproj.CoreCompileInputs.cache
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/Debug/netcoreapp2.2/RoomCalculator.AssemblyInfoInputs.cache
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/Debug/netcoreapp2.2/RoomCalculator.AssemblyInfo.cs
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/Debug/netcoreapp2.2/RoomCalculator.dll
+/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/Debug/netcoreapp2.2/RoomCalculator.pdb

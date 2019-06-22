@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/RoomCalculator.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/RoomCalculator.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/RoomCalculator.Tests.csproj",
+        "projectName": "RoomCalculator.Tests",
+        "projectPath": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/RoomCalculator.Tests.csproj",
+        "packagesPath": "/Users/jaimebrook/.nuget/packages/",
+        "outputPath": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jaimebrook/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/RoomCalculator.csproj": {
+                "projectPath": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/RoomCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/RoomCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/RoomCalculator.csproj",
+        "projectName": "RoomCalculator",
+        "projectPath": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/RoomCalculator.csproj",
+        "packagesPath": "/Users/jaimebrook/.nuget/packages/",
+        "outputPath": "/Users/jaimebrook/Documents/Example/RoomCalculator/RoomCalculator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jaimebrook/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
